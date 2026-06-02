@@ -105,7 +105,7 @@ I love clean, readable code, thoughtful architecture, well-named variables, beau
 ## 📫 Let's connect!
 
 <p>
-  <a href="https://linkedin.com/in/mykhailo-moskalenko" target="_blank">
+  <a href="https://linkedin.com/in/mykhailo-moskalenko-it" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mykhailo.moskalenko.it@gmail.com">
